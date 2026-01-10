@@ -1,5 +1,6 @@
-# Tarifa-Log-stica-
+# Tarifa-Logstica
 Repositório para gerenciar tarifas logísticas
+O objetivo do repositorio foi para aprofundar nos conhecimentos sobre git e github na pratica, aqui pude aprender a como criar um repositorio, Código de contribuição, licença, Readme e contribuição. E um projeto especifico bem curto para complementar o repositorio "Shipping_Cost_Calculator.py".
 
 Please consider the below factors while contributing
 Code Style:
